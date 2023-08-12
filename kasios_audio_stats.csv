@@ -1,0 +1,31 @@
+file_name,file_id,bird_species,duration,max_amp,max_freq,max_period
+1.wav,1,"0    Kasios Recording
+Name: bird_species, dtype: object",98.22041666666667,0.18269704,12000.0,8.333333333333333e-05
+10.wav,10,"9    Kasios Recording
+Name: bird_species, dtype: object",74.90033333333334,0.38001978,12000.0,8.333333333333333e-05
+11.wav,11,"10    Kasios Recording
+Name: bird_species, dtype: object",44.47495833333333,0.39721003,12000.0,8.333333333333333e-05
+12.wav,12,"11    Kasios Recording
+Name: bird_species, dtype: object",66.06225,0.3421582,12000.0,8.333333333333333e-05
+13.wav,13,"12    Kasios Recording
+Name: bird_species, dtype: object",41.5405,0.39485064,12000.0,8.333333333333333e-05
+14.wav,14,"13    Kasios Recording
+Name: bird_species, dtype: object",58.33145833333333,0.33135998,12000.0,8.333333333333333e-05
+15.wav,15,"14    Kasios Recording
+Name: bird_species, dtype: object",49.470125,0.4855847,12000.0,8.333333333333333e-05
+2.wav,2,"1    Kasios Recording
+Name: bird_species, dtype: object",61.744791666666664,0.19917232,12000.0,8.333333333333333e-05
+3.wav,3,"2    Kasios Recording
+Name: bird_species, dtype: object",88.22858333333333,0.25854084,12000.0,8.333333333333333e-05
+4.wav,4,"3    Kasios Recording
+Name: bird_species, dtype: object",57.346041666666665,0.30207458,12000.0,8.333333333333333e-05
+5.wav,5,"4    Kasios Recording
+Name: bird_species, dtype: object",41.975875,0.30258688,12000.0,8.333333333333333e-05
+6.wav,6,"5    Kasios Recording
+Name: bird_species, dtype: object",151.86725,0.40696296,12000.0,8.333333333333333e-05
+7.wav,7,"6    Kasios Recording
+Name: bird_species, dtype: object",30.64891666666667,0.2954813,12000.0,8.333333333333333e-05
+8.wav,8,"7    Kasios Recording
+Name: bird_species, dtype: object",84.26525,0.20856655,12000.0,8.333333333333333e-05
+9.wav,9,"8    Kasios Recording
+Name: bird_species, dtype: object",56.767,0.16703443,12000.0,8.333333333333333e-05
