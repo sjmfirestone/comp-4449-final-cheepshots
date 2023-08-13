@@ -19,13 +19,3 @@ The townsfolk and Preserve rangers seem satisfied that the recordings back up Ka
 2. Turn your attention to the set of bird calls supplied by Kasios. Does this set support the claim of Pipits being found across the Preserve? A machine learning approach using the bird call library may help your investigation. What is the role of visualization in your analysis of the Kasios bird calls? 
 3. Formulate a hypotheses concerning the state of the Rose Crested Blue Pipit. What are your primary pieces of evidence to support your assertion? What next steps should be taken in the investigation to either support or refute the Kasios claim that the Pipits are actually thriving across the Boonsong Lekagul Wildlife Preserve? 
 
-## Deliverables
-
-Please prepare __a single python notebook__ with the answers. However, feel free to use more than a single python file to solve tasks. If necessary, some results may be pre-computed and stored in separate files. Notebooks must clearly explain the answers to each question, supported by evidence derived from the data and visualized using the tools seen in the course. Describe the characteristics of the data you were given as well as your reasoning process leading to each answer. Use the following structure template for the answers notebook:
-
-- project title, task name
-    - description and data characterization 
-    - answer question 1
-    - answer question 2
-    - ...
-
